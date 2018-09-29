@@ -1,0 +1,23 @@
+http://training.pada-x.com
+padaLab@gmail.com
+
+statcounter
+appworks school, zeplin
+
+https://cwpeng.github.io/home.html
+
+visual studio code
+sublime text
+nodepad++
+
+<h1> ~ <h5>
+<hr/>
+<a>
+<b>, <u>, <i>
+<!-- 註解 -->
+<ul>, <li>
+<table>
+<tr>, <td>
+
+
+切版 flex
